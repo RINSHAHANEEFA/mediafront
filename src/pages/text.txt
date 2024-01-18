@@ -1,0 +1,6 @@
+state lifting
+
+it is used to sharing data between siblings - child to child 
+
+in add.jsx centralize the data which is to share trigger into useEffect hook in view.jsx
+ create a state in home 
